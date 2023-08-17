@@ -1,6 +1,6 @@
 ### Hello Peeps 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a Salon Project
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: she/her/ela
 - ⚡ Fun fact: ...
