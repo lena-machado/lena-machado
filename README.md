@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on a Salon Project
 - 🌱 I’m currently learning JavaScript
+- 📚 I’m currently studying Web Developer Bootcamp by Udemy
 - 😄 Pronouns: she/her/ela
 - ⚡ Fun fact: ...
 
